@@ -1,0 +1,11 @@
+.contenedor_img{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+img{
+    border-radius: 10px;
+    width: 300px;
+}
